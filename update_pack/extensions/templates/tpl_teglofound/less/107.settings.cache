@@ -1,0 +1,35 @@
+Array
+(
+    [mod_search__imput_searchword_width] => 200px
+    [tpl_teglofound_main_config_max_page_width] => 72.5em
+    [tpl_teglofound_main_config_min_mainpanel_height] => 1150px
+    [tpl_teglofound_head_config_main_font_color] => #FFFFFF
+    [tpl_teglofound_head_config_sub_bar_color] => #98af85
+    [tpl_teglofound_head_config_sub_bar_breadcrumbs_color] => #b7c8aa
+    [tpl_teglofound_head_config_sub_bar_border_color] => #7a8c6a
+    [tpl_teglofound_head_config_sub_bar_font_color] => #FFFFFF
+    [tpl_teglofound_head_config_main_font_hoveractive_color] => #FFFFFF
+    [tpl_teglofound_head_config_main_upper_color] => #c3d5e6
+    [tpl_teglofound_head_config_main_lower_color] => #86a9cc
+    [tpl_teglofound_head_config_main_hoveractive_color] => #86a9cc
+    [tpl_teglofound_main_config_button_color] => #86a9cc
+    [tpl_teglofound_main_config_button_hover_active_color] => #6b87a3
+    [tpl_teglofound_main_config_border_button_color] => #6b87a3
+    [tpl_teglofound_main_config_button_font_color] => #FFFFFF
+    [tpl_teglofound_main_config_lowermenu_color] => #98af85
+    [tpl_teglofound_main_config_lowermenu_border_color] => #b7c8aa
+    [tpl_teglofound_main_config_main_link_color] => #86a9cc
+    [tpl_teglofound_main_config_main_hover_active_link_color] => #6b87a3
+    [tpl_teglofound_main_config_main_alert_box_color] => #86a9cc
+    [tpl_teglofound_main_config_main_alert_box_border_color] => #6b87a3
+    [tpl_teglofound_main_config_main_label_color] => #86a9cc
+    [tpl_teglofound_main_config_pagination_color] => #86a9cc
+    [tpl_teglofound_main_config_pagination_hover_active_color] => #6b87a3
+    [tpl_teglofound_main_config_pagination_font_color] => #FFFFFF
+    [tpl_teglofound_module_config_side_nav_link_color] => #86a9cc
+    [tpl_teglofound_module_config_alphabarlink_link_color] => #86a9cc
+    [tpl_teglofound_main_config_shadow_width] => 1px
+    [tpl_teglofound_head_config_main_shadow_color] => #ebebeb
+    [tpl_teglofound_main_config_mainheadbar_height] => 50px
+    [tpl_teglofound_main_config_subheadbar_height] => 40px
+)
